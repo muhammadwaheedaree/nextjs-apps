@@ -13,7 +13,7 @@ A sleek and fully responsive **E-Commerce Landing Page** built with **Next.js 14
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
+   git clone https://github.com/muhammadwaheedaree/nextjs-apps.git
    cd your-repo-name
    ```
 2. Install dependencies:
